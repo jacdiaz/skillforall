@@ -7,4 +7,10 @@ Determining if a subject in a photo is smiling or not
 Access my site at [me.google.com] (https://google.com)
 
 ## Table of Content:
-- [About The Project] 
+- [About The Project] (#about-the-project)
+- [Screenshots] (#screenshots)
+- [Technologies] (#technologies)
+- [Setup] (#setup)
+- [Credits] (#credits)
+- [License] (#license)
+  
