@@ -13,4 +13,8 @@ Access my site at [me.google.com] (https://google.com)
 - [Setup] (#setup)
 - [Credits] (#credits)
 - [License] (#license)
+
+## About The Project
+Smile detection is a Python exercise that I use as an example in my Analytics course.
+It required creating and modifying some Jupyter Notebook code segments and adding instructions for learners.
   
